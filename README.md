@@ -1,6 +1,6 @@
-# Scripts accompanying Bhat and Guttal 2023
+# Scripts accompanying Bhat and Guttal 2024
 
-This repository contains scripts and data accompanying "Eco-evolutionary dynamics for finite populations from first principles and noise-induced reversal of selection". The scripts and data files in this repository can be used to reproduce the plots presented in Box 3 and Supplementary section S12 of the manuscript.
+This repository contains scripts and data accompanying "Eco-evolutionary dynamics for finite populations from first principles and noise-induced reversal of selection", to be published in *The American Naturalist*. The scripts and data files in this repository can be used to reproduce the plots presented in Box 3 and Supplementary section S12 of the manuscript.
 
 ## Guide to the repo
 
