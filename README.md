@@ -1,6 +1,6 @@
 # Scripts accompanying Bhat and Guttal 2024
 
-This repository contains scripts and data accompanying "Eco-evolutionary dynamics for finite populations from first principles and noise-induced reversal of selection", to be published in *The American Naturalist*. The scripts and data files in this repository can be used to reproduce the plots presented in Box 3 and Supplementary section S12 of the manuscript. A permanent, citable version of this repository with a DOI is available here: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.13384640.svg)](https://doi.org/10.5281/zenodo.13384640)
+This repository contains scripts and data accompanying Bhat and Guttal 2025, "Eco-evolutionary Dynamics for Finite Populations and the Noise-Induced Reversal of Selection", in *The American Naturalist* (DOI: [10.1086/733196](https://www.journals.uchicago.edu/doi/10.1086/733196)). The scripts and data files in this repository can be used to reproduce the plots presented in Box 3 and Supplementary section S12 of the manuscript. A permanent, citable version of this repository with a DOI is available here: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.13384640.svg)](https://doi.org/10.5281/zenodo.13384640)
 
 ## Guide to the repo
 
